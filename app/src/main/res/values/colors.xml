@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorTitle">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="color_accent">#000000</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="status_bar_scrim">@color/background</color>
+    <color name="nav_bar_scrim">@color/background</color>
+    <color name="colorGrey">#D1D1D1</color>
+    <color name="colorBgBtn">#000000</color>
+</resources>

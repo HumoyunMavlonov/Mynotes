@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="tab_all">All</string>
+    <string name="tab_personal">Personal</string>
+    <string name="tab_work">Work</string>
+    <string name="tab_study">Study</string>
+    <string name="note">Note</string>
+    <string name="note_is_empty">Note is empty</string>
+    <string name="save">Save</string>
+    <string name="note_title">Note Title</string>
+    <string name="title">Title</string>
+    <string name="write_a_note">Write a note...</string>
+    <string name="delete">Edit</string>
+    <string name="share">Share</string>
+    <string name="menu">Menu</string>
+    <string name="add_notes">Add notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+
+    <string name="about">О нас
+Программа MyNotes (Заметки) представляет собой мощное приложение для управления вашими заметками, созданное с заботой о вашем комфорте. Вам больше не нужно беспокоиться о потере важных записей или забытых идей. MyNotes обеспечивает удобное и эффективное решение для организации ваших мыслей и информации.
+
+Разработчик
+Программа MyNotes разработана Humoyun Mavlonov в сотрудничестве с Akademiya GITA. Наша цель - предоставить вам интуитивно понятный и функциональный инструмент для управления вашими заметками. Надеемся, что MyNotes поможет вам сохранить и структурировать ваши идеи, задачи и важные события.
+
+О Humoyun Mavlonov
+Humoyun Mavlonov - опытный разработчик программного обеспечения с интересом к созданию инновационных и полезных приложений. Его стремление к качеству и простоте использования отражается в каждой детали MyNotes. Humoyun уверен в том, что технологии могут значительно облегчить повседневную жизнь людей, и именно это его вдохновляет.
+
+Akademiya GITA
+Akademiya GITA - образовательная платформа, предоставляющая высококачественные онлайн-курсы по программированию, разработке приложений и другим техническим навыкам. Сотрудничество с разработчиками, такими как Humoyun Mavlonov, помогает создавать полезные и практичные продукты для пользователей.
+
+Спасибо за выбор MyNotes! Мы надеемся, что вы найдете его полезным и удобным инструментом для управления вашими заметками.</string>
+
+    <string-array name="labels">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Study</item>
+    </string-array>
+</resources>
